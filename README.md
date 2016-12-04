@@ -6,8 +6,7 @@ This book is a truly gem and it's available for free (online and PDF).
 #### Installing Racket
 You'll need racket and the sicp package to get a Scheme subset, I'm using Ubuntu 16.04 LTS:
 
->_sudo apt install racket_
->_raco pkg install sicp_
+>_sudo apt install racket_ && _raco pkg install sicp_
 
 After the installation you can add the following line to the beginning of each .rkt file in order to select the Scheme subset:
 _*#*lang sicp_
