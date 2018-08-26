@@ -9,7 +9,7 @@ You'll need racket and the sicp package to get a Scheme subset, I'm using Ubuntu
 >_sudo apt install racket_ && _raco pkg install sicp_
 
 After the installation you can add the following line to the beginning of each .rkt file in order to select the Scheme subset:
-_*#*lang sicp_
+_#lang sicp_
 
 To run the samples:
 >_racket 1.2.rkt_
