@@ -1,6 +1,6 @@
 ### SICP with Racket
 
-My attempt on doing the exercises of the book Structure and Interpretation of Computer Programs.
+My attempt on doing some of the exercises of the book Structure and Interpretation of Computer Programs.
 This book is a truly gem and it's available for free (online and PDF).
 
 #### Installing Racket
