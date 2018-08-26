@@ -1,3 +1,5 @@
+#lang scheme
+
 ;-------------------------------------------------------------------------------
 ; Exercise 1.8: Newton’s method for cube roots is based on
 ; the fact that if y is an approximation to the cube root of x,
@@ -6,7 +8,6 @@
 ; the square-root  procedure
 ;-------------------------------------------------------------------------------
 
-#lang scheme
 (define approx-delta 0.000001)
 (define (cube-root num)
   (cube-root-helper num (/ num 2.0)))

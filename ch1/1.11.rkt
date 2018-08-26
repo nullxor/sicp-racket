@@ -1,3 +1,5 @@
+#lang scheme
+
 ;-------------------------------------------------------------------------------
 ; Exercise 1.11: Exercise 1.11: A function f is defined by the rule that
 ; f (n) =
@@ -7,8 +9,6 @@
 ; process. Write a procedure that computes f by means of an
 ; iterative process.
 ;-------------------------------------------------------------------------------
-
-#lang scheme
 
 ; Recursive
 (define (f-rec n)
