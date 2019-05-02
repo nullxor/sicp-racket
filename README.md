@@ -1,7 +1,5 @@
 ### SICP with Racket
-
-My attempt on doing some of the exercises of the book Structure and Interpretation of Computer Programs.
-This book is a truly gem and it's available for free (online and PDF).
+Racket code for some of the exercises of the famous SICP book. This book is a truly gem and it's available for free (online and PDF).
 
 #### Installing Racket
 You'll need racket and the sicp package to get a Scheme subset, I'm using Ubuntu 16.04 LTS:
